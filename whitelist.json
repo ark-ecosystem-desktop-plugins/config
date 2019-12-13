@@ -1,5 +1,5 @@
 {
-  "whitelist": {
+  "plugins": {
     "@arkecosystem/desktop-wallet-explorer": "0.1.12",
     "@arkecosystem/additional-avatars": "0.0.7",
     "@arkecosystem/desktop-wallet-theme-dark-contrast": "0.1.5",
