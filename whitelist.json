@@ -8,6 +8,7 @@
     "@alessiodf/match-3": "1.0.1",
     "@alessiodf/minesweeper-flags": "1.0.6",
     "@alessiodf/t-grexx": "1.0.1",
-    "@alessiodf/universal-delegate-monitor": "0.9.0"
+    "@alessiodf/universal-delegate-monitor": "0.9.0",
+    "cn-ark-plugin": "1.0.0"
   }
 }
