@@ -4,10 +4,10 @@
     "@arkecosystem/additional-avatars": "0.0.7",
     "@arkecosystem/desktop-wallet-theme-dark-contrast": "0.1.5",
     "@arkecosystem/desktop-wallet-sound-notifications": "0.1.6",
-    "@alessiodf/bold-ninja": "1.0.0",
-    "@alessiodf/match-3": "1.0.0",
-    "@alessiodf/minesweeper-flags": "1.0.5",
-    "@alessiodf/t-grexx": "1.0.0",
+    "@alessiodf/bold-ninja": "1.0.1",
+    "@alessiodf/match-3": "1.0.1",
+    "@alessiodf/minesweeper-flags": "1.0.6",
+    "@alessiodf/t-grexx": "1.0.1",
     "@alessiodf/universal-delegate-monitor": "0.9.0"
   }
 }
