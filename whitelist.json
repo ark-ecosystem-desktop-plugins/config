@@ -1,6 +1,6 @@
 {
   "plugins": {
-    "@arkecosystem/desktop-wallet-explorer": "0.1.12",
+    "@arkecosystem/desktop-wallet-explorer": "0.1.13",
     "@arkecosystem/additional-avatars": "0.0.7",
     "@arkecosystem/desktop-wallet-theme-dark-contrast": "0.1.5",
     "@arkecosystem/desktop-wallet-sound-notifications": "0.1.6",
