@@ -73,7 +73,7 @@
     },
     "@ross121/red-snow-theme": {
       "version": "0.0.2"
-    },
+    }
   },
   "blacklist": [
     "@arkecosystem/additional-avatars"
