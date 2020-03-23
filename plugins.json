@@ -1,0 +1,78 @@
+{
+  "plugins": {
+    "@arkecosystem/desktop-wallet-explorer": {
+      "version": "0.1.13"
+    },
+    "@arkecosystem/additional-avatars": {
+      "version": "0.0.8"
+    },
+    "@arkecosystem/desktop-wallet-theme-dark-contrast": {
+      "version": "0.1.6"
+    },
+    "@arkecosystem/desktop-wallet-sound-notifications": {
+      "version": "0.1.6"
+    },
+    "@alessiodf/bold-ninja": {
+      "version": "1.0.1"
+    },
+    "@alessiodf/match-3": {
+      "version": "1.0.1"
+    },
+    "@alessiodf/minesweeper-flags": {
+      "version": "1.0.6"
+    },
+    "@alessiodf/t-grexx": {
+      "version": "1.0.1"
+    },
+    "@alessiodf/universal-delegate-monitor": {
+      "version": "0.9.0"
+    },
+    "cn-ark-plugin": {
+      "version": "1.1.0"
+    },
+    "@breno.polanski/animal-avatars-ark-wallet": {
+      "version": "0.1.2"
+    },
+    "@alessiodf/connect-4": {
+      "version": "1.0.0"
+    },
+    "@elevenyellow.com/ark-switchain-plugin": {
+      "version": "1.2.0"
+    },
+    
+    "@azure-infinity/beyond-infinity": {
+      "version": "0.1.1"
+    },
+    "@azure-infinity/cyberpunk-theme": {
+      "version": "0.0.5"
+    },
+    "@azure-infinity/infinite-universe": {
+      "version": "0.0.1"
+    },
+    "@borismar/ark-desktop-wallet-theme-one": {
+      "version": "0.9.6"
+    },
+    "@breno.polanski/dracula-theme-ark-wallet": {
+      "version": "0.1.1"
+    },
+    "@cambot1088/cyj-theme_2": {
+      "version": "0.0.3"
+    },
+    "@daniel.barta/lively-wallet-template": {
+      "version": "1.0.0"
+    },
+    "@giliam/ark-breeze": {
+      "version": "1.0.5"
+    },
+    "@giliam/ark-pro": {
+      "version": "1.0.6"
+    },
+    "@giliam/ark-pure": {
+      "version": "1.0.0"
+    },
+    "@ross121/red-snow-theme": {
+      "version": "0.0.2"
+    },
+  },
+  "blacklist": []
+}
