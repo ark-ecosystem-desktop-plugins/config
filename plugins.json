@@ -1,7 +1,6 @@
 {
   "plugins": {
     "@arkecosystem/desktop-wallet-explorer": {
-      "isGrant": true,
       "version": "0.1.13"
     },
     "@arkecosystem/additional-avatars": {
@@ -78,7 +77,5 @@
       "version": "0.0.2"
     }
   },
-  "blacklist": [
-    "@arkecosystem/additional-avatars"
-  ]
+  "blacklist": []
 }
