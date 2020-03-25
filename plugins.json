@@ -43,6 +43,7 @@
       "version": "1.0.0"
     },
     "@dated/transaction-export-plugin": {
+      "isGrant": "true",
       "version": "1.0.0"
     },
     
