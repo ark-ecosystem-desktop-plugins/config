@@ -42,6 +42,9 @@
     "@dated/delegate-calculator-plugin": {
       "version": "1.0.0"
     },
+    "@dated/transaction-export-plugin": {
+      "version": "1.0.0"
+    },
     
     "@azure-infinity/beyond-infinity": {
       "version": "0.1.1"
