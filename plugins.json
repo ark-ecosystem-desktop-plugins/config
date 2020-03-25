@@ -75,6 +75,10 @@
     },
     "@ross121/red-snow-theme": {
       "version": "0.0.2"
+    },
+    
+    "@breno.polanski/brazilian-portuguese-language-plugin": {
+      "version": "1.0.0"
     }
   },
   "blacklist": []
