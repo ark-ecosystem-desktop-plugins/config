@@ -48,6 +48,10 @@
     "@dated/italian-language-plugin": {
       "version": "1.0.1"
     },
+    "@dated/transaction-export-plugin": {
+      "isGrant": "true",
+      "version": "1.0.1"
+    },
     
     "@azure-infinity/beyond-infinity": {
       "version": "0.1.1"
