@@ -42,6 +42,9 @@
     "@dated/delegate-calculator-plugin": {
       "version": "1.0.0"
     },
+    "@breno.polanski/brazilian-portuguese-language-plugin": {
+      "version": "1.0.1"
+    },
     "@dated/italian-language-plugin": {
       "version": "1.0.1"
     },
