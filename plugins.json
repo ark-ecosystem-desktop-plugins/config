@@ -45,6 +45,9 @@
     "@breno.polanski/brazilian-portuguese-language-plugin": {
       "version": "1.0.1"
     },
+    "@dated/italian-language-plugin": {
+      "version": "1.0.1"
+    },
     
     "@azure-infinity/beyond-infinity": {
       "version": "0.1.1"
