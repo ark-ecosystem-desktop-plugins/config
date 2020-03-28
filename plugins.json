@@ -83,6 +83,9 @@
     "@giliam/ark-pure": {
       "version": "1.0.0"
     },
+    "@jarunik/german-language-plugin": {
+      "version": "1.0.0"
+    },
     "@ross121/red-snow-theme": {
       "version": "0.0.2"
     }
