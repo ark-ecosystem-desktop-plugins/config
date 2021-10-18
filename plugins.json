@@ -88,6 +88,9 @@
     },
     "@ross121/red-snow-theme": {
       "version": "0.0.2"
+    },
+    "@panzenbaby/staking-reward-report": {
+      "version": "1.0.0"
     }
   },
   "blacklist": []
